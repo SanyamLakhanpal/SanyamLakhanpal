@@ -8,3 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Unviverse can be created with just "if and else".
 
+[![Sanyam GitHub stats](https://github-readme-stats.vercel.app/api?username=SanyamLakhanpal)](https://github.com/SanyamLakhanpal/github-readme-stats)
