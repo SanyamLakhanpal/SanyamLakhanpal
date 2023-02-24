@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **SanyamLakhanpal/SanyamLakhanpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: slakhanp@asu.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Unviverse can be created with just "if and else".
--->
+
